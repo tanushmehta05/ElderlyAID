@@ -1,0 +1,4 @@
+train: C:\Users\ASUS\Documents\ElderlyAID\dataset\train
+val: C:\Users\ASUS\Documents\ElderlyAID\dataset\val
+nc: 2 # Number of classes (if your dataset has only 'Fall' and 'NoFall')
+names: ['Fall', 'NoFall']
